@@ -1,4 +1,4 @@
-package pj.flash_ai.Controller;
+package pj.flash_ai.controller;
 
 public class HomeController {
 }
